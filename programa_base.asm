@@ -3,7 +3,7 @@
 # Version sin optimizar, con los riesgos de datos presentes tal como quedan
 # al escribir el codigo de forma directa.
 #
-# Autor: colgii26
+# Autor: flower Cordoba
 # Fecha: 27/02/2026
 
 .data
